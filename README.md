@@ -1,7 +1,7 @@
 # worldofcakes client
 Demo project using Node, React, Typescript, Sqlite
 
-![World of Cakes](https://github.com/jasonj85/worldofcakes/blob/main/world-of-cakes.png)
+![World of Cakes](https://github.com/jasonj85/worldofcakes-client/blob/main/world-of-cakes.png)
 
 # hosted online
 - using Heroku for hosting purposes
