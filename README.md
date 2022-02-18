@@ -10,7 +10,7 @@ FE:
 
 ## How to run locally
 1. run git clone https://github.com/jasonj85/worldofcakes-client.git
-2. open terminal in folder ("cd clientapp"). Run "npm install" then "npm start"
+2. open terminal in folder. Run "npm install" then "npm start"
 3. bask in it's glory and be amazed by the dark mode switch ("do you even darkmode")
 
 ## Other notes
